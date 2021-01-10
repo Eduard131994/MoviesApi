@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\eduard.ghiurca\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mredy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduard.ghiurca\\source\\repos\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
+      "projectUniqueName": "C:\\Users\\mredy\\Desktop\\Projects\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
       "projectName": "MoviesApi",
-      "projectPath": "C:\\Users\\eduard.ghiurca\\source\\repos\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
-      "packagesPath": "C:\\Users\\eduard.ghiurca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduard.ghiurca\\source\\repos\\MoviesApi\\MoviesApi\\obj\\",
+      "projectPath": "C:\\Users\\mredy\\Desktop\\Projects\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
+      "packagesPath": "C:\\Users\\mredy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mredy\\Desktop\\Projects\\MoviesApi\\MoviesApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\eduard.ghiurca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mredy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://10.250.29.21/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
